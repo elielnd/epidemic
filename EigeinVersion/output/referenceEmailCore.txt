@@ -1,0 +1,15 @@
+--- Résultats de l'Algorithme de PageRank --- 
+
+Configuration : 
+	-Taille de la matrice d'adjacence : 1005*1005
+
+Paramètres de l'algorithme : 
+	-Tolerance : 1e-06
+	-Damping factor(alpha) : 0.85
+
+Resultats : 
+Nombre d'itérations effectuées : 2000
+Valeur propre dominante : 0.969566
+Vecteur propre correspondant: 
+	-Maximum value: 0.276819 (Index : 1)
+Ecriture du vecteur propre dans le fichier : eigenvector.txt
